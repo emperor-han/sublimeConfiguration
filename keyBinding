@@ -1,0 +1,30 @@
+[
+	{ "keys": ["ctrl+j"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+	{ "keys": ["ctrl+k"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+    { "keys": ["ctrl+h"], "command": "htmlprettify" },
+    { "keys": ["ctrl+u"], "command": "reindent" , "args" : {"single_line": false} },
+    { "keys": ["f2"], "command": "side_bar_files_open_with",
+                "args": {
+                    "paths": [],
+                    "application": "C:/Program Files (x86)/Mozilla Firefox/firefox.exe",
+                    //对应上面的Firefox路径
+                    "extensions":".*" 
+                } 
+    },
+    { "keys": ["f1"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+                //对应上面的Chrome路径
+                "extensions":".*" 
+            } 
+    },
+    { "keys": ["f4"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:/Program Files (x86)/Internet Explorer/iexplore.exe",
+                //对应上面的ie路径
+                "extensions":".*" 
+            } 
+    }
+]

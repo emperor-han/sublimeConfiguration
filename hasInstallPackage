@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ClassName",
+		"Colorcoder",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Snippets",
+		"LiveStyle",
+		"Package Control",
+		"Phpcs",
+		"Sass",
+		"SASS Build",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeOnSaveBuild"
+	]
+}
